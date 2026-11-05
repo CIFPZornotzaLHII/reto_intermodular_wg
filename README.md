@@ -1,3 +1,5 @@
+<p align="center"><img src="img/logo-zornotza.png" alt="CIFP Zornotza LHII" width="460"></p>
+
 # Reto · Proyecto intermodular · DAW (2.º de DAW)
 
 **CIFP Zornotza LHII · curso 2026-27 · módulo 0616 Proyecto intermodular (Proyecto de desarrollo de aplicaciones web) · 50 h · grado superior**
