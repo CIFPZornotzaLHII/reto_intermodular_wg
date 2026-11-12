@@ -8,9 +8,9 @@ honestidad: detectar la desviación, decidir y anotar el efecto.
 | | Previsto | Real |
 |---|---|---|
 | Horas totales | 50 | |
-| Hito 1 · planificación | [fecha] | |
-| Hito 2 · revisión intermedia | [fecha] | |
-| Entrega | [fecha] | |
+| Idea aprobada | 01/03/2027 | |
+| Planificación validada | [fecha] | |
+| Entrega (landing, tarjeta y vídeo) | 21/05/2027 | |
 
 ## Semanas
 
@@ -42,5 +42,5 @@ honestidad: detectar la desviación, decidir y anotar el efecto.
 ## Cierre
 
 - **Horas previstas / reales:** 50 / [n]
-- **Hitos cumplidos:** [n] de 2
-- **Lo que repetiríamos y lo que no:** […]
+- **Hitos cumplidos:** [n] de 3
+- **Lo que repetiría y lo que no:** […]

@@ -1,6 +1,6 @@
 # Planificación · [TÍTULO DEL PROYECTO]
 
-**Equipo:** [nombre 1], [nombre 2], [nombre 3] · **Ciclo:** [DAW] · **Fecha:** [dd/mm/aaaa] · **Versión:** 1
+**Nombre:** [nombre y apellidos] · **Ciclo:** [DAW] · **Fecha:** [dd/mm/aaaa] · **Versión:** 1
 
 ## 1. La necesidad
 
@@ -12,7 +12,7 @@
 
 ## 2. La solución
 
-- **En una frase:** [qué vais a construir]
+- **En una frase:** [qué vas a construir]
 - **Qué entra (imprescindible):** [lista]
 - **Qué sería deseable si sobra tiempo:** [lista]
 - **Qué NO entra:** [lista — esto evita discusiones después]
@@ -27,23 +27,23 @@
 
 [Arquitectura, modelo de datos, API y pantallas principales. Esquemas o diagramas como imágenes en esta carpeta.]
 
-## 4. Tareas, estimación y reparto
+## 4. Tareas y estimación
 
-| Fase | Tarea | Responsable | Horas previstas | Depende de |
-|---|---|---|---|---|
-| Análisis | [entrevistas] | [nombre] | 2 | — |
-| Diseño | […] | [nombre] | 3 | análisis |
-| Ejecución | […] | [todos] | 10 | diseño |
-| Cierre | [landing, vídeo] | [nombre] | 4 | ejecución |
+| Fase | Tarea | Horas previstas | Depende de |
+|---|---|---|---|
+| Análisis | [entrevistas] | 2 | — |
+| Diseño | […] | 3 | análisis |
+| Ejecución | […] | 10 | diseño |
+| Cierre | [landing, vídeo] | 4 | ejecución |
 
-**Hito 1 (planificación aprobada):** [fecha] · **Hito 2 (revisión intermedia):** [fecha] · **Entrega:** [fecha] · **Defensa:** [fecha]
+**Idea aprobada:** hasta el 01/03/2027 · **Planificación entregada:** [fecha] · **Entrega (landing, tarjeta y vídeo):** 21/05/2027
 
 ## 5. Riesgos
 
 | Riesgo | Probabilidad | Impacto | Plan B |
 |---|---|---|---|
 | [el hardware no llega] | media | alto | [empezar en máquinas virtuales] |
-| [baja de un miembro] | baja | alto | [tareas por parejas] |
+| [semanas con mucha carga de otros módulos] | alta | medio | [recortar lo deseable y mantener lo imprescindible] |
 
 ## 6. Recursos y presupuesto
 
@@ -54,5 +54,5 @@
 
 ## 7. Calidad
 
-- **Cómo probaréis que funciona:** [pruebas, checklist, datos de prueba]
-- **Qué documentación entregaréis:** [manual, esquema, guía de instalación…]
+- **Cómo probarás que funciona:** [pruebas, checklist, datos de prueba]
+- **Qué documentación entregarás:** [manual, esquema, guía de instalación…]

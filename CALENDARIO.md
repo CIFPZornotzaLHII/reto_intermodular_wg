@@ -1,12 +1,10 @@
 # Calendario · reto DAW · curso 2026-27
 
-Lo rellena el profesor al inicio del curso. Las horas son las de `README.md` (fases y horas).
+Fechas del curso. Las horas de cada fase están en `README.md` (fases y horas).
 
 | Hito | Fecha | Observaciones |
 |---|---|---|
-| Arranque: equipos e idea | [dd/mm/aaaa] | |
-| Hito 1: planificación aprobada | [dd/mm/aaaa] | |
-| Hito 2: revisión intermedia (demo parcial) | [dd/mm/aaaa] | |
-| Entrega: pull request con landing y tarjeta | [dd/mm/aaaa] | |
-| Vídeo publicado | [dd/mm/aaaa] | puede ir en una segunda pull request |
-| Defensa ante el equipo docente | [dd/mm/aaaa] | 10 min por grupo |
+| Idea elegida y aprobada | hasta el 01/03/2027 | De `IDEAS.md` o propia. El proyecto es individual |
+| Planificación validada | cuando la entregues | El profesor la revisa y la valida cuando la entregas |
+| Entrega: pull request con landing y tarjeta, y vídeo publicado | 21/05/2027 | El vídeo puede ir en una segunda pull request, dentro del mismo plazo |
+| Defensa ante el equipo docente (opcional) | del 24/05/2027 al 28/05/2027 | Solo si el equipo docente la pide. 10 min |
